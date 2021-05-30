@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "description": "Node.js on Docker",
     "author": "Taras Bulubas <taras.bulubas@gmail.com>",
-    "main": "server-default.js",
+    "main": "server.js",
     "scripts": {
-        "start": "node server-default.js"
+        "start": "node server.js"
     },
     "dependencies": {
         "express": "^4.16.1",
